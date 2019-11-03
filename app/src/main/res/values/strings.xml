@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jim Crow Museum</string>
+    <string name="title_item_detail">Jim Crow Museum App</string>
+    <string name="museum_info">Jim Crow Museum Information</string>
+    <string name="fsu">Ferris State University</string>
+    <string name="welcome">Welcome!</string>
+    <string name="mission">The Jim Crow Museum is located on the campus of Ferris State University in Big Rapids, Michigan. Our mission is to use objects of intolerance to teach tolerance and promote social justice.</string>
+    <string name="address">Visit at 1010 Campus Drive - Big Rapids, MI 49307</string>
+    <string name="hours">Regular hours are Monday to Friday 12-5PM</string>
+    <string name="btn_view_exhibits">View Digital Exhibits</string>
+    <string name="btn_learn_more">Learn More</string>
+    <string name="img1">Picture</string>
+    <string name="img2">Picture</string>
+    <string name="desc1">Desc 1</string>
+    <string name="desc2">Desc 2</string>
+    <string name="desc3">Desc 3</string>
+    <string name="desc4">Desc 4</string>
+</resources>
