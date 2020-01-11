@@ -17,24 +17,24 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:contentDescription="@string/img1"
+            android:contentDescription="@string/original_jim_crow"
             android:paddingStart="20sp"
             android:paddingLeft="20sp"
             android:paddingEnd="10sp"
             android:paddingRight="10sp"
-            app:srcCompat="@mipmap/james_reeb" />
+            app:srcCompat="@drawable/original_jim_crow" />
 
         <ImageView
             android:id="@+id/imgB"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:contentDescription="@string/img2"
+            android:contentDescription="@string/jim_crow_origin"
             android:paddingStart="10sp"
             android:paddingLeft="10sp"
             android:paddingEnd="20sp"
             android:paddingRight="20sp"
-            app:srcCompat="@mipmap/ic_launcher" />
+            app:srcCompat="@drawable/jim_crow_origin" />
     </LinearLayout>
 
     <TextView
@@ -42,9 +42,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="2"
-        android:gravity="center_horizontal"
+        android:paddingLeft="20sp"
         android:paddingTop="30sp"
-        android:text="@string/desc1"
+        android:paddingRight="20sp"
+        android:paddingBottom="30sp"
+        android:text="@string/origins_desc"
         android:textSize="24sp"
         app:fontFamily="sans-serif-condensed-light" />
 </LinearLayout>

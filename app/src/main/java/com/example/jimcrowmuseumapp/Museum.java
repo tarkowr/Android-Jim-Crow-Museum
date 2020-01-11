@@ -23,11 +23,11 @@ public class Museum {
     public static final Map<UUID, MuseumItem> ITEM_MAP = new HashMap<>();
 
     static {
-        addItem(new MuseumItem(UUID.randomUUID(), "Stub A", R.layout.exhibit1));
-        addItem(new MuseumItem(UUID.randomUUID(), "Stub B", R.layout.exhibit1));
-        addItem(new MuseumItem(UUID.randomUUID(), "Stub C", R.layout.exhibit1));
-        addItem(new MuseumItem(UUID.randomUUID(), "Stub D", R.layout.exhibit1));
-        addItem(new MuseumItem(UUID.randomUUID(), "Jim Crow Site", "https://www.ferris.edu/HTMLS/news/jimcrow/"));
+        addItem(new MuseumItem(UUID.randomUUID(), "The Origins of Jim Crow", R.layout.origins));
+        addItem(new MuseumItem(UUID.randomUUID(), "Jim Crow and Violence", R.layout.violence));
+        addItem(new MuseumItem(UUID.randomUUID(), "Anti-Black Imagery", R.layout.imagery));
+        addItem(new MuseumItem(UUID.randomUUID(), "Battling Jim Crow Imagery", R.layout.battling_imagery));
+        addItem(new MuseumItem(UUID.randomUUID(), "Jim Crow Museum Site", "https://www.ferris.edu/HTMLS/news/jimcrow/"));
     }
 
     private static void addItem(MuseumItem item) {

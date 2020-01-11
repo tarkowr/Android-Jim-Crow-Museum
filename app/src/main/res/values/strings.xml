@@ -9,10 +9,24 @@
     <string name="hours">Regular hours are Monday to Friday 12-5PM</string>
     <string name="btn_view_exhibits">View Digital Exhibits</string>
     <string name="btn_learn_more">Learn More</string>
-    <string name="img1">Picture</string>
-    <string name="img2">Picture</string>
-    <string name="desc1">Desc 1</string>
-    <string name="desc2">Desc 2</string>
-    <string name="desc3">Desc 3</string>
-    <string name="desc4">Desc 4</string>
+    <string name="original_jim_crow">Turkey in the Straw Comic Image</string>
+    <string name="jim_crow_origin">Columbia Theatre Ticket Image</string>
+    <string name="origins_desc">
+        Throughout the 1830s and \'40s, the white entertainer Thomas Dartmouth Rice (1808-1860) performed a popular song-and-dance act supposedly modeled after a slave. He named the character Jim Crow. Rice darkened his face, acted like a buffoon, and spoke with an exaggerated and distorted imitation of African American Vernacular English. In his Jim Crow persona, he also sang "Negro ditties" such as "Jump Jim Crow." \n\nRice was not the first white comic to perform in blackface, but he was the most popular of his time, touring both the United States and England. As a result of Rice\'s success, "Jim Crow" became a common stage persona for white comedians\' blackface portrayals of African Americans. \n\nAfter the American Civil War (1861-1865), most southern states and, later, border states passed laws that denied blacks basic human rights. It is not clear how, but the minstrel character\'s name "Jim Crow" became a kind of shorthand for the laws, customs and etiquette that segregated and demeaned African Americans primarily from the 1870s to the 1960s.
+    </string>
+    <string name="lynching_tree">Lynching Tree Image</string>
+    <string name="kkk_org">KKK Member on Horse Image</string>
+    <string name="violence_desc">
+        At the beginning of the 20th Century, much of the anti-black propaganda found in scientific journals, newspapers, and novels focused on the stereotype of the black brute. The fear of black men raping white women became a public rationalization for the lynching of blacks. Lynching is the illegal, often public, killing of an accused person by a mob. \n\nMost of the victims were hanged or shot, but some were burned at the stake, castrated, beaten with clubs, or dismembered. In the mid-1800s, whites constituted the majority of victims (and perpetrators). However, after the Civil War, blacks were the most frequent victims. The great majority of lynchings occurred in southern and border states, where the resentment against blacks ran deepest. \n\nKu Klux Klan (also called the Invisible Empire) is the name of a secret society that has terrorized blacks from the end of the Civil War to the present. Claiming to be a Christian organization, Klan members have harassed, beaten, lynched, and bombed black Americans, as well as Catholics, Jews, immigrants and others. Klan membership exceeded two million in the mid-1920s; by 2010, the number was less than 20,000. \n\nToday, there are many small independent Klan organizations, in addition to dozens of other white supremacist groups still active in the United States and beyond. The new Klans have "mainstreamed" their recruitment by publicly deemphasizing violence. They also stress opposition to affirmative action, busing, and liberal immigration policies.
+    </string>
+    <string name="coon_chicken">Entrance to Coon Chicken Inn Image</string>
+    <string name="kitchen_item">Racist Kitchen Item Image</string>
+    <string name="imagery_desc">
+        Coon Chicken Inn was a small restaurant chain in the American West from the late 1920s through the 1950s. The restaurants were known for their entrances, which featured the head of a winking, grinning, grotesquely caricatured black man wearing a porter\'s cap. The words "Coon Chicken Inn" were written on teeth framed by oversized red lips. Visitors entered through a doorway in the middle of the black man\'s mouth. The menu included southern fried "Coon Chicken" sandwiches and chicken pie, as well as hamburgers, seafood, chili, and assorted sandwiches. Blacks (especially ones with very dark skin) were employed as waiters, waitresses, and cooks. \n\nDuring the Jim Crow period a typical American kitchen had many products with images that portrayed blacks in negative ways; these included packaging for cereal, syrup, pancake mix, and detergent; salt and pepper shakers; string holders; cookbooks; hand towels; placemats; grocery list reminders; and, wall hangings. Any object found in a kitchen could be-and often was-transformed into anti-black propaganda.
+    </string>
+    <string name="resistance_art">Art as Resistance Image</string>
+    <string name="discontent_art">Art as Discontent Image</string>
+    <string name="battling_imagery_desc">
+        Jon Onye Lockard is a painter, educator, and activist. He taught life drawing, portrait painting, and the art and culture of African Americans for more than forty years at the University of Michigan and at Washtenaw Community College. Known for his rich use of color and powerful use of form, Lockard\'s murals are located at Central State University, the University of Michigan, and Detroit\'s Charles H. Wright Museum of African American History. His painting "No More," a critique of commercial mammy imagery, was created in 1972. \n\nLester White is a Grand Rapids-based artist whose portraits convey realistic drama. "Serving This" is White\'s deconstruction of Rastus, the Cream of Wheat chef. Rastus, like many Jim Crow Period pitchmen, was portrayed as a happy and smiling servant, content with his lowly status-wanting only to please the people he served.
+    </string>
 </resources>
